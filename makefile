@@ -20,4 +20,4 @@ export ANDROID_HOME
 android:
 	$(call clean)
 	export ANDROID_HOME
-	gomobile bind -target=android -o logic.aar ./github.com/codewin_go/logic
+	gomobile bind -target=android -o logic.aar ./github.com/Demo/CodeWinGo/logic
